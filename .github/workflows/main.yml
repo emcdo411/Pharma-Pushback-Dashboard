@@ -1,0 +1,4 @@
+your-repo/
+└── .github/
+    └── workflows/
+        └── main.yml  # or any name you like
